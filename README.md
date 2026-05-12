@@ -1,12 +1,22 @@
 # Aerofit---Descriptive-Statistics-Probability
-About Aerofit
+The business problem for Aerofit centers on **customer profiling and product recommendation**.
 
-Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
+Currently, the market research team needs to move beyond general sales and deeply understand the specific characteristics of the people buying their different treadmill models (**KP281, KP481, and KP781**).
+
+### Core Objective
+
+The primary goal is to identify the unique "target audience" for each treadmill type. By understanding who buys what, Aerofit can provide better, data-driven recommendations to new customers, ultimately improving conversion rates and customer satisfaction.
+
+---
+
+### Key Areas of Investigation
+
+To solve this problem, the team is investigating differences across products based on several customer attributes:
+
+* **Demographics:** Age, Gender, Education, and Marital Status.
+* **Economics:** Annual Income.
+* **Behavior & Intent:** * **Usage:** How many times they plan to use it per week.
+* **Fitness:** Their self-rated fitness level (1 to 5).
+* **Miles:** The average weekly distance they expect to cover.
 
 
-Business Problem
-
-The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product with respect to customer characteristics.
-
-Perform descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
-For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their insights/impact on the business.
